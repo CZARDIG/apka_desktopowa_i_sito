@@ -1,0 +1,14 @@
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\bin\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.exe
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\bin\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.deps.json
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\bin\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.runtimeconfig.json
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\bin\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.dll
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\bin\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.pdb
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\obj\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\obj\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.AssemblyInfoInputs.cache
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\obj\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.AssemblyInfo.cs
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\obj\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.csproj.CoreCompileInputs.cache
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\obj\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.dll
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\obj\Debug\net8.0\refint\aplikacja konsoli zadanie domowe ponownie.dll
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\obj\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.pdb
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\obj\Debug\net8.0\aplikacja konsoli zadanie domowe ponownie.genruntimeconfig.cache
+C:\Users\tebed\source\repos\aplikacja konsoli zadanie domowe ponownie\aplikacja konsoli zadanie domowe ponownie\obj\Debug\net8.0\ref\aplikacja konsoli zadanie domowe ponownie.dll

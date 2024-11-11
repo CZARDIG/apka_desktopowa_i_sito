@@ -1,0 +1,17 @@
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\bin\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.exe
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\bin\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.deps.json
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\bin\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.runtimeconfig.json
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\bin\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.dll
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\bin\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.pdb
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie_domowe_aplikacja_windows_forms.Form1.resources
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie_domowe_aplikacja_windows_forms.Properties.Resources.resources
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.csproj.GenerateResource.cache
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.AssemblyInfoInputs.cache
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.AssemblyInfo.cs
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.csproj.CoreCompileInputs.cache
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.dll
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\refint\zadanie domowe aplikacja windows forms.dll
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.pdb
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\zadanie domowe aplikacja windows forms.genruntimeconfig.cache
+C:\Users\tebed\source\repos\zadanie domowe aplikacja windows forms\zadanie domowe aplikacja windows forms\obj\Debug\net8.0-windows\ref\zadanie domowe aplikacja windows forms.dll
